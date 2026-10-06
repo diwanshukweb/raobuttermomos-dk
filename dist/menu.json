@@ -1,0 +1,1657 @@
+[
+  {
+    "id": "momos-steam-butter-momos",
+    "name": "Steam Butter Momos",
+    "sourceTranscription": "Steam Butter Momos: 110 / 130 / 140",
+    "category": "Momos",
+    "variants": [
+      {
+        "name": "Veg",
+        "price": 110,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      },
+      {
+        "name": "Paneer",
+        "price": 130,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      },
+      {
+        "name": "Chicken",
+        "price": 140,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "momos-fried-momos",
+    "name": "Fried Momos",
+    "sourceTranscription": "Fried Momos: 120 / 140 / 150",
+    "category": "Momos",
+    "variants": [
+      {
+        "name": "Veg",
+        "price": 120,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      },
+      {
+        "name": "Paneer",
+        "price": 140,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      },
+      {
+        "name": "Chicken",
+        "price": 150,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "momos-crispy-momos",
+    "name": "Crispy Momos",
+    "sourceTranscription": "Crispy Momos: 160 / 180 / 190",
+    "category": "Momos",
+    "variants": [
+      {
+        "name": "Veg",
+        "price": 160,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      },
+      {
+        "name": "Paneer",
+        "price": 180,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      },
+      {
+        "name": "Chicken",
+        "price": 190,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "momos-chilli-gravy-momos",
+    "name": "Chilli Gravy Momos",
+    "sourceTranscription": "Chilli Gravy Momos: 150 / 170 / 180",
+    "category": "Momos",
+    "variants": [
+      {
+        "name": "Veg",
+        "price": 150,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      },
+      {
+        "name": "Paneer",
+        "price": 170,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      },
+      {
+        "name": "Chicken",
+        "price": 180,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "momos-tawa-gravy-momos",
+    "name": "Tawa Gravy Momos",
+    "sourceTranscription": "Tawa Gravy Momos: 150 / 170 / 140",
+    "category": "Momos",
+    "variants": [
+      {
+        "name": "Veg",
+        "price": 150,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      },
+      {
+        "name": "Paneer",
+        "price": 170,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      },
+      {
+        "name": "Chicken",
+        "price": 140,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": false,
+        "reviewReason": "Chicken price ₹140 needs owner confirmation"
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "momos-tandoori-masala-momos",
+    "name": "Tandoori Masala Momos",
+    "sourceTranscription": "Tandoori Masala Momos: 160 / 180 / 200",
+    "category": "Momos",
+    "variants": [
+      {
+        "name": "Veg",
+        "price": 160,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      },
+      {
+        "name": "Paneer",
+        "price": 180,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      },
+      {
+        "name": "Chicken",
+        "price": 200,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "momos-afghani-malai-momos",
+    "name": "Afghani Malai Momos",
+    "sourceTranscription": "Afghani Malai Momos: 170 / 200 / 210",
+    "category": "Momos",
+    "variants": [
+      {
+        "name": "Veg",
+        "price": 170,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      },
+      {
+        "name": "Paneer",
+        "price": 200,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      },
+      {
+        "name": "Chicken",
+        "price": 210,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "momos-tandoori-makhni-momos",
+    "name": "Tandoori Makhni Momos",
+    "sourceTranscription": "Tandoori Makhni Momos: 150 / 190 / 200",
+    "category": "Momos",
+    "variants": [
+      {
+        "name": "Veg",
+        "price": 150,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      },
+      {
+        "name": "Paneer",
+        "price": 190,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      },
+      {
+        "name": "Chicken",
+        "price": 200,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "momos-matka-tandoori-momos",
+    "name": "Matka Tandoori Momos",
+    "sourceTranscription": "Matka Tandoori Momos: 200 / 220 / 230",
+    "category": "Momos",
+    "variants": [
+      {
+        "name": "Veg",
+        "price": 200,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      },
+      {
+        "name": "Paneer",
+        "price": 220,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      },
+      {
+        "name": "Chicken",
+        "price": 230,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "momos-bhutani-momos",
+    "name": "Bhutani Momos",
+    "sourceTranscription": "Bhutani Momos: 160 / 180 / 190",
+    "category": "Momos",
+    "variants": [
+      {
+        "name": "Veg",
+        "price": 160,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      },
+      {
+        "name": "Paneer",
+        "price": 180,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      },
+      {
+        "name": "Chicken",
+        "price": 190,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "momos-green-mint-momos",
+    "name": "Green Mint Momos",
+    "sourceTranscription": "Green Mint Momos: 160 / 180 / 190",
+    "category": "Momos",
+    "variants": [
+      {
+        "name": "Veg",
+        "price": 160,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      },
+      {
+        "name": "Paneer",
+        "price": 180,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      },
+      {
+        "name": "Chicken",
+        "price": 190,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "momos-honey-mustard-momos",
+    "name": "Honey Mustard Momos",
+    "sourceTranscription": "Honey Mustard Momos: 170 / 200 / 210",
+    "category": "Momos",
+    "variants": [
+      {
+        "name": "Veg",
+        "price": 170,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      },
+      {
+        "name": "Paneer",
+        "price": 200,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      },
+      {
+        "name": "Chicken",
+        "price": 210,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "momos-smoky-peri-peri-momos",
+    "name": "Smoky Peri Peri Momos",
+    "sourceTranscription": "Smoky Peri Peri Momos: 170 / 200 / 210",
+    "category": "Momos",
+    "variants": [
+      {
+        "name": "Veg",
+        "price": 170,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      },
+      {
+        "name": "Paneer",
+        "price": 200,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      },
+      {
+        "name": "Chicken",
+        "price": 210,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "momos-pizza-cheese-momos",
+    "name": "Pizza Cheese Momos",
+    "sourceTranscription": "Pizza Cheese Momos: 190 / 220 / 230",
+    "category": "Momos",
+    "variants": [
+      {
+        "name": "Veg",
+        "price": 190,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      },
+      {
+        "name": "Paneer",
+        "price": 220,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      },
+      {
+        "name": "Chicken",
+        "price": 230,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "hot-soup-chicken-soup",
+    "name": "Chicken Soup",
+    "sourceTranscription": "Chicken Soup — 140",
+    "category": "Hot Soup",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 140,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "hot-soup-chicken-thuppa-soup",
+    "name": "Chicken Thuppa Soup",
+    "sourceTranscription": "Chicken Thuppa Soup — 140",
+    "category": "Hot Soup",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 140,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chopsy-veg-chinese",
+    "name": "Veg Chinese",
+    "sourceTranscription": "Veg Chinese — 229",
+    "category": "Chopsy",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 229,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": false,
+    "reviewReason": "Menu name or category needs confirmation"
+  },
+  {
+    "id": "chopsy-chicken-chineses",
+    "name": "Chicken Chineses",
+    "sourceTranscription": "Chicken Chineses — 279",
+    "category": "Chopsy",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 279,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": false,
+    "reviewReason": "Menu name or category needs confirmation"
+  },
+  {
+    "id": "chopsy-veg-amrician",
+    "name": "Veg Amrician",
+    "sourceTranscription": "Veg Amrician — 279",
+    "category": "Chopsy",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 279,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": false,
+    "reviewReason": "Menu name or category needs confirmation"
+  },
+  {
+    "id": "chopsy-chicken-amrician",
+    "name": "Chicken Amrician",
+    "sourceTranscription": "Chicken Amrician — 329",
+    "category": "Chopsy",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 329,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": false,
+    "reviewReason": "Menu name or category needs confirmation"
+  },
+  {
+    "id": "rao-special-noodles-veg-noodle",
+    "name": "Veg Noodle",
+    "sourceTranscription": "Veg Noodle — 230",
+    "category": "Rao Special Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 230,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rao-special-noodles-paneer-noodle",
+    "name": "Paneer Noodle",
+    "sourceTranscription": "Paneer Noodle — 280",
+    "category": "Rao Special Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 280,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rao-special-noodles-chicken-noodle",
+    "name": "Chicken Noodle",
+    "sourceTranscription": "Chicken Noodle — 330",
+    "category": "Rao Special Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 330,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chaap-tawa-gravy-chaap",
+    "name": "Tawa Gravy Chaap",
+    "sourceTranscription": "Tawa Gravy Chaap — 180",
+    "category": "Chaap",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 180,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chaap-afghani-malai-chaap",
+    "name": "Afghani Malai Chaap",
+    "sourceTranscription": "Afghani Malai Chaap — 160",
+    "category": "Chaap",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 160,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chaap-tandoori-masala-chaap",
+    "name": "Tandoori Masala Chaap",
+    "sourceTranscription": "Tandoori Masala Chaap — 160",
+    "category": "Chaap",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 160,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chaap-masala-paneer-tikka",
+    "name": "Masala Paneer Tikka",
+    "sourceTranscription": "Masala Paneer Tikka — 139",
+    "category": "Chaap",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 139,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chaap-malai-paneer-tikka",
+    "name": "Malai Paneer Tikka",
+    "sourceTranscription": "Malai Paneer Tikka — 180",
+    "category": "Chaap",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 180,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chaap-rumali-roti",
+    "name": "Rumali Roti",
+    "sourceTranscription": "Rumali Roti — 20",
+    "category": "Chaap",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 20,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chowmein-noodles-veg-chowmein",
+    "name": "Veg Chowmein",
+    "sourceTranscription": "Veg Chowmein — 120",
+    "category": "Chowmein / Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 120,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chowmein-noodles-veg-chilli-garlic-chowmein",
+    "name": "Veg Chilli Garlic Chowmein",
+    "sourceTranscription": "Veg Chilli Garlic Chowmein — 140",
+    "category": "Chowmein / Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 140,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chowmein-noodles-veg-hakka-noodles",
+    "name": "Veg Hakka Noodles",
+    "sourceTranscription": "Veg Hakka Noodles — 140",
+    "category": "Chowmein / Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 140,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chowmein-noodles-veg-shezwan-noodles",
+    "name": "Veg Shezwan Noodles",
+    "sourceTranscription": "Veg Shezwan Noodles — 150",
+    "category": "Chowmein / Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 150,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chowmein-noodles-egg-chilli-garlic",
+    "name": "Egg Chilli Garlic",
+    "sourceTranscription": "Egg Chilli Garlic — 160",
+    "category": "Chowmein / Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 160,
+        "diet": "nonveg",
+        "protein": "egg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chowmein-noodles-egg-moodles",
+    "name": "Egg Moodles",
+    "sourceTranscription": "Egg Moodles — 170",
+    "category": "Chowmein / Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 170,
+        "diet": "nonveg",
+        "protein": "egg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": false,
+    "reviewReason": "Menu name or category needs confirmation"
+  },
+  {
+    "id": "chowmein-noodles-paneer-singapuri-rice",
+    "name": "Paneer Singapuri Rice",
+    "sourceTranscription": "Paneer Singapuri Rice — 170",
+    "category": "Chowmein / Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 170,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": false,
+    "reviewReason": "Menu name or category needs confirmation"
+  },
+  {
+    "id": "chowmein-noodles-paneer-chilli-garlic",
+    "name": "Paneer Chilli Garlic",
+    "sourceTranscription": "Paneer Chilli Garlic — 160",
+    "category": "Chowmein / Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 160,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chowmein-noodles-paneer-shizwan-chowmein",
+    "name": "Paneer Shizwan Chowmein",
+    "sourceTranscription": "Paneer Shizwan Chowmein — 170",
+    "category": "Chowmein / Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 170,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chowmein-noodles-paneer-hakka",
+    "name": "Paneer Hakka",
+    "sourceTranscription": "Paneer Hakka — 160",
+    "category": "Chowmein / Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 160,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chowmein-noodles-paneer-sehyziodles",
+    "name": "Paneer Sehyziodles",
+    "sourceTranscription": "Paneer Sehyziodles — 160",
+    "category": "Chowmein / Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 160,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": false,
+    "reviewReason": "Menu name or category needs confirmation"
+  },
+  {
+    "id": "chowmein-noodles-chicken-hita-noodles",
+    "name": "Chicken Hita Noodles",
+    "sourceTranscription": "Chicken Hita Noodles — 170",
+    "category": "Chowmein / Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 170,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": false,
+    "reviewReason": "Menu name or category needs confirmation"
+  },
+  {
+    "id": "chowmein-noodles-chicken-hakka",
+    "name": "Chicken Hakka",
+    "sourceTranscription": "Chicken Hakka — 170",
+    "category": "Chowmein / Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 170,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chowmein-noodles-chicken-singapuri",
+    "name": "Chicken Singapuri",
+    "sourceTranscription": "Chicken Singapuri — 180",
+    "category": "Chowmein / Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 180,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chowmein-noodles-chicken-chilli-chowmein",
+    "name": "Chicken Chilli Chowmein",
+    "sourceTranscription": "Chicken Chilli Chowmein — 180",
+    "category": "Chowmein / Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 180,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chowmein-noodles-chicken-chilli-garlic",
+    "name": "Chicken Chilli Garlic",
+    "sourceTranscription": "Chicken Chilli Garlic — 190",
+    "category": "Chowmein / Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 190,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chowmein-noodles-chicken-shezwan",
+    "name": "Chicken Shezwan",
+    "sourceTranscription": "Chicken Shezwan — 190",
+    "category": "Chowmein / Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 190,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chowmein-noodles-mix-chicken",
+    "name": "Mix Chicken",
+    "sourceTranscription": "Mix Chicken — 240",
+    "category": "Chowmein / Noodles",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 240,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rice-veg-rice",
+    "name": "Veg Rice",
+    "sourceTranscription": "Veg Rice — 140",
+    "category": "Rice",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 140,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rice-veg-chilli-garlic-rice",
+    "name": "Veg Chilli Garlic Rice",
+    "sourceTranscription": "Veg Chilli Garlic Rice — 150",
+    "category": "Rice",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 150,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rice-veg-hakka-rice",
+    "name": "Veg Hakka Rice",
+    "sourceTranscription": "Veg Hakka Rice — 150",
+    "category": "Rice",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 150,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rice-veg-shezwan-rice",
+    "name": "Veg Shezwan Rice",
+    "sourceTranscription": "Veg Shezwan Rice — 150",
+    "category": "Rice",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 150,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rice-paneer-rice",
+    "name": "Paneer Rice",
+    "sourceTranscription": "Paneer Rice — 160",
+    "category": "Rice",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 160,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rice-paneer-singapuri-rice",
+    "name": "Paneer Singapuri Rice",
+    "sourceTranscription": "Paneer Singapuri Rice — 170",
+    "category": "Rice",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 170,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rice-paneer-chilli-garlic-rice",
+    "name": "Paneer Chilli Garlic Rice",
+    "sourceTranscription": "Paneer Chilli Garlic Rice — 170",
+    "category": "Rice",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 170,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rice-paneer-hakka-rice",
+    "name": "Paneer Hakka Rice",
+    "sourceTranscription": "Paneer Hakka Rice — 170",
+    "category": "Rice",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 170,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rice-paneer-shezwan-rice",
+    "name": "Paneer Shezwan Rice",
+    "sourceTranscription": "Paneer Shezwan Rice — 170",
+    "category": "Rice",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 170,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rice-egg-rice",
+    "name": "Egg Rice",
+    "sourceTranscription": "Egg Rice — 160",
+    "category": "Rice",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 160,
+        "diet": "nonveg",
+        "protein": "egg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rice-chicken-rice",
+    "name": "Chicken Rice",
+    "sourceTranscription": "Chicken Rice — 170",
+    "category": "Rice",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 170,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rice-chicken-singapuri-rice",
+    "name": "Chicken Singapuri Rice",
+    "sourceTranscription": "Chicken Singapuri Rice — 180",
+    "category": "Rice",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 180,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rice-chicken-chilli-garlic-rice",
+    "name": "Chicken Chilli Garlic Rice",
+    "sourceTranscription": "Chicken Chilli Garlic Rice — 180",
+    "category": "Rice",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 180,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rice-chicken-hakka-rice",
+    "name": "Chicken Hakka Rice",
+    "sourceTranscription": "Chicken Hakka Rice — 180",
+    "category": "Rice",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 180,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rice-chicken-shezwan-rice",
+    "name": "Chicken Shezwan Rice",
+    "sourceTranscription": "Chicken Shezwan Rice — 180",
+    "category": "Rice",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 180,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": true,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rolls-and-sides-chilli-potato",
+    "name": "Chilli Potato",
+    "sourceTranscription": "Chilli Potato — 130",
+    "category": "Rolls and sides",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 130,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rolls-and-sides-honey-potato",
+    "name": "Honey Potato",
+    "sourceTranscription": "Honey Potato — 160",
+    "category": "Rolls and sides",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 160,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rolls-and-sides-french-fries",
+    "name": "French Fries",
+    "sourceTranscription": "French Fries — 120",
+    "category": "Rolls and sides",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 120,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rolls-and-sides-spring-roll",
+    "name": "Spring Roll",
+    "sourceTranscription": "Spring Roll — 110",
+    "category": "Rolls and sides",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 110,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rolls-and-sides-paneer-spring-roll",
+    "name": "Paneer Spring Roll",
+    "sourceTranscription": "Paneer Spring Roll — 130",
+    "category": "Rolls and sides",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 130,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rolls-and-sides-chicken-roll",
+    "name": "Chicken Roll",
+    "sourceTranscription": "Chicken Roll — 150",
+    "category": "Rolls and sides",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 150,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "rolls-and-sides-malai-chaap-roll",
+    "name": "Malai Chaap Roll",
+    "sourceTranscription": "Malai Chaap Roll — 140",
+    "category": "Rolls and sides",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 140,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "manchurian-veg-gravy",
+    "name": "Veg Gravy",
+    "sourceTranscription": "Veg Gravy — 210",
+    "category": "Manchurian",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 210,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "manchurian-paneer-gravy",
+    "name": "Paneer Gravy",
+    "sourceTranscription": "Paneer Gravy — 210",
+    "category": "Manchurian",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 210,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "manchurian-chicken-gravy",
+    "name": "Chicken Gravy",
+    "sourceTranscription": "Chicken Gravy — 230",
+    "category": "Manchurian",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 230,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "manchurian-chicken-dry",
+    "name": "Chicken Dry",
+    "sourceTranscription": "Chicken Dry — 230",
+    "category": "Manchurian",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 230,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chilli-chilli-paneer-dry",
+    "name": "Chilli Paneer Dry",
+    "sourceTranscription": "Chilli Paneer Dry — 220",
+    "category": "Chilli",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 220,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chilli-chilli-paneer-gravy",
+    "name": "Chilli Paneer Gravy",
+    "sourceTranscription": "Chilli Paneer Gravy — 220",
+    "category": "Chilli",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 220,
+        "diet": "veg",
+        "protein": "paneer",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chilli-chilli-chicken-dry",
+    "name": "Chilli Chicken Dry",
+    "sourceTranscription": "Chilli Chicken Dry — 230",
+    "category": "Chilli",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 230,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chilli-chilli-chicken-gravy",
+    "name": "Chilli Chicken Gravy",
+    "sourceTranscription": "Chilli Chicken Gravy — 240",
+    "category": "Chilli",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 240,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chilli-chilli-mushroom-dry",
+    "name": "Chilli Mushroom Dry",
+    "sourceTranscription": "Chilli Mushroom Dry — 240",
+    "category": "Chilli",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 240,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chilli-chilli-mushroom-gravy",
+    "name": "Chilli Mushroom Gravy",
+    "sourceTranscription": "Chilli Mushroom Gravy — 260",
+    "category": "Chilli",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 260,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chilli-chilli-gobhi-dry",
+    "name": "Chilli Gobhi Dry",
+    "sourceTranscription": "Chilli Gobhi Dry — 210",
+    "category": "Chilli",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 210,
+        "diet": "veg",
+        "protein": "veg",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  },
+  {
+    "id": "chilli-lemon-chicken",
+    "name": "Lemon Chicken",
+    "sourceTranscription": "Lemon Chicken — 270",
+    "category": "Chilli",
+    "variants": [
+      {
+        "name": "Regular",
+        "price": 270,
+        "diet": "nonveg",
+        "protein": "chicken",
+        "enabled": true
+      }
+    ],
+    "butterEligible": false,
+    "available": true,
+    "reviewReason": null
+  }
+]
